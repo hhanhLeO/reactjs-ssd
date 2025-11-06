@@ -14,7 +14,7 @@ export function HomePage({ cart }) {
     }
     fetchHomeData();
   }, []);
-
+  
   return (
     <>
       <title>Ecommerce Project</title>
